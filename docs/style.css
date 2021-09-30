@@ -1,5 +1,8 @@
-body{   background-color:lemonchiffon;    padding:4vw;  font-family: western, fantasy; font-size:30px;}
+body{   background-color:lemonchiffon;    padding:4vw;  font-family: western, fantasy; font-size:25px;}
+a:link {color: green;}
+a:visited {color: green;}
+a:hover {font-weight:bold;}
+a:active {color:pink;}
+img{margin:auto;     width:40%;  padding-top:1vw;   padding-bottom:0.5vw;}
 
-figure{margin:auto;     width:30%;  padding-top:1vw;   padding-bottom:1vw;}
-
-figcaption {font-style:italic; font-size:smaller;}
+figcaption {font-size:15px;}
