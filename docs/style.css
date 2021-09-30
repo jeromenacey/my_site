@@ -1,5 +1,5 @@
-body{   background-color:lemonchiffon;    padding:4vw;}
+body{   background-color:lemonchiffon;    padding:4vw;  font-family: western, fantasy; font-size:30px;}
 
-figure{margin:auto;     width:30%;  padding-top: 1vw;   padding-bottom: 1vw;}
+figure{margin:auto;     width:30%;  padding-top:1vw;   padding-bottom:1vw;}
 
-figcaption {font-style: italic; font-size: smaller;}
+figcaption {font-style:italic; font-size:smaller;}
